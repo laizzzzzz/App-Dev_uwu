@@ -12,21 +12,21 @@ pages
 ------
 
 ## Installation
-  XAMPP control panel
-    Start: Apache & MySQL
+1. XAMPP control panel
+    - Start: Apache & MySQL
 
-  Run `pip install django`.
-  Run `pip install python`.
-  Run `pip install mysqlclient`.
-  Run `pip install mysql-connector-python`.
+2. Run `pip install django`.
+3. Run `pip install python`.
+4. Run `pip install mysqlclient`.
+5. Run `pip install mysql-connector-python`.
 
 ## Usage
-  Run python main.py --help to see available options.
-  Run django-admin startproject demo to proceed.
-  Run cd demo.
-  Run python manage.py startapp myapp.
-  Create the templates needed
-  Run python manage.py runserver to get the URL of your website.
+- Run python main.py --help to see available options.
+- Run django-admin startproject demo to proceed.
+- Run cd demo.
+- Run python manage.py startapp myapp.
+- Create the templates needed
+- Run python manage.py runserver to get the URL of your website.
 
 ## Contributing
 Contributions are welcome! Please feel free to add any suggestions or update on this project.
