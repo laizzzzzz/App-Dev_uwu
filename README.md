@@ -1,14 +1,13 @@
-Novino, Gelizza Marie E.
+#--Novino, Gelizza Marie E.
 BSIT
-22011011210
+22011011210--#
 
 # My 2nd Awesome Python Project
 Welcome to thy 2nd Python project! 
-# This project does comprehensive demonstration of Django basics.
-on BEHALF of the concept of CREATING ---
+
+This project does comprehensive demonstration of Django basics. On BEHALF of the concept of CREATING ---
 ------
-**REGISTER, LOGIN, AND LOG OUT **
-pages
+**REGISTER, LOGIN, AND LOG OUT ** pages
 ------
 
 ## Installation
